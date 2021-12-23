@@ -1,0 +1,4 @@
+变量定义的一般形式就是：<类型名称><变量名称>；
+int price;
+int amount;
+int price,amount;
